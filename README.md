@@ -30,16 +30,16 @@ Credit card fraud is a real-world problem involving a large number of financial 
 
 | Week | Activity | Status |
 |---|---|---|
-| Week 1 | Team Formation & Data Hunting | In Progress |
-| Week 2 | Know Your Data | Not Started |
+| Week 1 | Team Formation & Data Hunting | Completed |
+| Week 2 | Know Your Data | Completed |
 | Week 3 | Data Cleaning & Outlier Detection | Not Started |
 | Week 4 | EDA Deep Dive | Not Started |
 
 ## Team Members
 
-1. Your Name — ___
-2. Member 2 — ___
-3. Member 3 — ___
+1. Member 1 — ABISHAKE P 25BAD002
+2. Member 2 — ARUNVIGNESH R S 25BAD012
+3. Member 3 — NISHANTH M 25BAD069
 
 ## Project Objective
 
